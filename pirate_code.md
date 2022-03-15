@@ -41,6 +41,6 @@ get your fair share of the prize!
 
 Captain      : Nicolas Dunand
 Quartermaster: Jonathan Sulc
-First mate   : NAME_HERE
+First mate   : Nicolas Alexandropoulos
 
 
