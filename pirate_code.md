@@ -40,7 +40,7 @@ Note to the First mate: make sure you revise article I of the pirate code above,
 get your fair share of the prize!
 
 Captain      : Nicolas Dunand
-Quartermaster: NAME_HERE
+Quartermaster: Jonathan Sulc
 First mate   : NAME_HERE
 
 
